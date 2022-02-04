@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Benchmark.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="23" Y="9"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="src\xypsimulatedannealing.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="17"/>
+        <CursorPos X="37" Y="25"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\inc\mathh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="86"/>
+        <CursorPos X="14" Y="105"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="SimulatedAnnealing.pas"/>
+        <UnitName Value="simulatedannealing"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="79"/>
+        <CursorPos X="10" Y="83"/>
+        <UsageCount Value="13"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\sysutils\sysutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="4" Y="104"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\packages\rtl-objpas\src\inc\dateutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="256"/>
+        <CursorPos X="10" Y="275"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\sysutils\datih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="111"/>
+        <CursorPos X="10" Y="130"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\sysutils\sysuthrd.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\i386\strings.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\sysutils\dati.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\sysutils\sysstr.inc"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="51" Y="152"/>
+        <FoldState Value=" T3kf032111412O"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\FPC\3.2.2\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="309"/>
+        <CursorPos X="14" Y="327"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="86" Column="16" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="106" Column="7" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="37" Column="5" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="361" Column="16" TopLine="309"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="70" Column="15" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="309" Column="81" TopLine="294"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="88" Column="11" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="86" Column="7" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="87" Column="11" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="Benchmark.pas"/>
+        <Caret Line="84" Column="36" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="Benchmark.pas"/>
+        <Caret Line="49" Column="13" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="281" TopLine="263"/>
+      </Position>
+      <Position>
+        <Filename Value="Benchmark.pas"/>
+        <Caret Line="37" Column="7" TopLine="20"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="333" Column="81" TopLine="319"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="336" Column="15" TopLine="320"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="86" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="336" Column="7" TopLine="318"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="355" Column="73" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="398" Column="3" TopLine="350"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="336" Column="7" TopLine="318"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="86" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="357" Column="87" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="355" Column="5" TopLine="337"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="102" Column="11" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="112" Column="35" TopLine="324"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="272" Column="3" TopLine="253"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="51" Column="3" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="55" Column="18" TopLine="32"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="338" Column="39" TopLine="333"/>
+      </Position>
+      <Position>
+        <Filename Value="GeneticAlgorithm.pas"/>
+        <Caret Line="357" Column="36" TopLine="344"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

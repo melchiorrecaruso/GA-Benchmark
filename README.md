@@ -4,7 +4,7 @@ A genetic algorithm (GA) is a method for solving both constrained and unconstrai
 
 You can apply the genetic algorithm to solve problems that are not well suited for standard optimization algorithms, including problems in which the objective function is discontinuous, nondifferentiable, stochastic, or highly nonlinear.
 
-Here you ca find a simple GA implementation with Pascal language and an example of benchmark using Eggholder function.
+Here you can find a simple GA implementation with Pascal language and an example of benchmark using Eggholder function.
 
 ![EggholderFunction](/plot/plot.PNG "Eggholder function")
 
